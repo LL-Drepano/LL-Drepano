@@ -3,9 +3,7 @@
 I build workflow automations that remove
 manual, repetitive work using tools like Make.com, n8n, Zapier, Azure, APIs, and LLMs.
 
-**Featured project:** [Job Application Tracker](https://github.com/LL-Drepano/job-application-tracker) — one-click capture, automated follow-up reminders, and AI-drafted emails (Make.com + Google Sheets + Gemini API).
-
-📫 Reach me at: your-email@example.com
+📫 Reach me at: lorenzodrepano@gmail.com
 
 <!--
 **LL-Drepano/LL-Drepano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
