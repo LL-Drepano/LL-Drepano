@@ -2,7 +2,11 @@
 
 I build workflow automations that remove
 manual, repetitive work using tools like Make.com, n8n, Zapier, Azure, APIs, and LLMs.
+
+
 I deliberately built across Make, n8n, Zapier, and Power Platform to develop platform-agnostic automation skills — the underlying patterns (webhooks, LLM integration, routing, structured data) transfer; the tools are interchangeable.
+
+
 (part of this portfolio is re-uploaded)
 
 📫 Reach me at: lorenzodrepano@gmail.com
